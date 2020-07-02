@@ -92,6 +92,6 @@ ROIがちょうど良い（右側の画像で意味が分かる）：e
 
 これを以下のリンクに送信してください．
 
-[](https://www.dropbox.com/request/YuiPhxZhZH4NokBZqJ09)
+https://www.dropbox.com/request/YuiPhxZhZH4NokBZqJ09
 
 
